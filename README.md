@@ -26,8 +26,6 @@ Firebase
 
 Room
 
-Jetpack
-
 Material Design
 
 Git
