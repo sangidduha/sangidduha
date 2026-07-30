@@ -1,43 +1,17 @@
-# Hi 👋 I'm Syed Sangid Duha
+# Hi, I'm Syed Sangid Duha 👋
 
 Android Developer from Bangladesh 🇧🇩
 
-## About Me
+🚀 9 Published Google Play Apps  
+📈 2.5M+ Total Installs  
+💙 Kotlin • Java • Firebase • Room • Git  
 
-📱 Android Developer
-
-🚀 Published 9 apps on Google Play
-
-📈 2.5M+ Total Installs
-
-💙 Kotlin • Java
-
-🔥 Currently building modern Android apps
+Currently building modern, scalable, and user-friendly Android applications.
 
 ---
 
-## Tech
+## 📊 GitHub Stats
 
-Kotlin
+![Syed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SangidDuha&show_icons=true&theme=tokyonight&hide_border=true)
 
-Java
-
-Firebase
-
-Room
-
-Material Design
-
-Git
-
-Android Studio
-
----
-
-## Current Focus
-
-• Clean Architecture
-
-• Performance
-
-• AI-powered Android Apps
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SangidDuha&layout=compact&theme=tokyonight&hide_border=true)
