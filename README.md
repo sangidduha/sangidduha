@@ -1,17 +1,45 @@
-<h2 align="center">Hi 👋, I'm Sangid Duha</h2>
+# Hi 👋 I'm Syed Sangid Duha
 
-![Profile views](https://gpvc.arturio.dev/sangidduha)  
+Android Developer from Bangladesh 🇧🇩
 
-- 🌱 I’m currently learning Android App Development. 
-- 💬 Ask me about Android App. 
-- 📫 How to reach me: sangidduha@gmail.com 
+## About Me
 
+📱 Android Developer
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/sangidduha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/sangid.duha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/sangid_duha/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/sangid_duha)  
+🚀 Published 9 apps on Google Play
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30"/> </a> </p>
+📈 2.5M+ Total Installs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangidduha)](https://github.com/anuraghazra/github-readme-stats)
+💙 Kotlin • Java
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sangidduha&show_icons=true)  
+🔥 Currently building modern Android apps
+
+---
+
+## Tech
+
+Kotlin
+
+Java
+
+Firebase
+
+Room
+
+Jetpack
+
+Material Design
+
+Git
+
+Android Studio
+
+---
+
+## Current Focus
+
+• Clean Architecture
+
+• Performance
+
+• AI-powered Android Apps
