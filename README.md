@@ -2,61 +2,79 @@
 
 ### Android Engineer from Bangladesh 🇧🇩
 
-I build fast, scalable and user-focused Android applications.
+I develop high-performance Android applications that have reached over **2.56 million downloads** on Google Play. My current focus is building AI-powered mobile experiences using modern LLM APIs.
+
+---
 
 ## 🚀 Highlights
 
-• 📱 9 Published Google Play Apps
+📱 11 Published Google Play Apps
 
-• 📈 2.5M+ Total Installs
+📈 2.56M+ Total Downloads
 
-• 💻 5+ Years of Android Development
+💻 5+ Years of Android Development
 
-• 🔥 Kotlin & Java
+🤖 AI Integration (OpenAI GPT & Google Gemini APIs)
 
-• ☁ Firebase
+📊 App Store Optimization (ASO)
 
-• 🗄 Room Database
-
-• 🎨 Material Design
-
-• 🧩 MVVM Architecture
+⚡ Kotlin • Java • Firebase • Room
 
 ---
 
 ## 🛠 Tech Stack
 
+### Languages
 - Kotlin
 - Java
-- Android SDK
-- Jetpack
-- Room
-- Firebase
+
+### Android
+- MVVM Architecture
+- Room Database
 - Retrofit
+- Material Design
+- XML UI
+- View Binding
+
+### Backend & Cloud
+- Firebase
+- REST APIs
+- Firebase Analytics
+- Crashlytics
+
+### AI
+- OpenAI API
+- Google Gemini API
+- AI-powered Android Applications
+
+### Publishing
+- Google Play Console
+- App Store Optimization (ASO)
+- AdMob
+
+### Tools
+- Android Studio
 - Git
 - GitHub
-- Material Design
 
 ---
 
 ## 🎯 Current Focus
 
-- Modern Android Development
-- Clean Architecture
+- Building AI Agents
+- AI-powered Android Applications
+- LLM Integration (OpenAI GPT & Google Gemini)
 - Performance Optimization
-- AI-powered Android Apps
+- Clean Architecture & Scalable Mobile Apps
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SangidDuha&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SangidDuha&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SangidDuha&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SangidDuha&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-### 📫 Connect
-
-- Email: sangidduha@email.com
-- LinkedIn: linkedin.com/in/sangidduha
+> "Building Android apps that solve real problems and reach millions of users."
