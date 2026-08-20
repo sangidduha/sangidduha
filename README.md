@@ -2,15 +2,23 @@
 
 🚀 Android Engineer building AI-powered Android apps.
 
-- 📱 11 Google Play Apps
+- 📱 11 Published Google Play Apps
 - 📈 2.56M+ Downloads
-- 💻 5+ Years Experience
+- 💻 5+ Years of Android Development
 - 🤖 AI • Kotlin • Java
 
 ## 🛠 Tech
 
-Kotlin • Java • MVVM • Room • Retrofit • Firebase • Git
+Kotlin • Java • Android SDK • MVVM • Room • Firebase • Retrofit • Gemini API • GPT API • Git
+
+## 🎨 Product Skills
+
+Android UI/UX Design • Material Design • App Store Optimization (ASO) • Analytics
 
 ## 🎯 Current Focus
 
-AI Agents • LLM Integration • Android • Performance
+AI Agents • LLM Integration • Clean Architecture • Performance Optimization
+
+## 📊 GitHub
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sangidduha&theme=github-dark&hide_border=true)
