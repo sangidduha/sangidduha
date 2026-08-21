@@ -21,4 +21,4 @@ AI Agents • LLM Integration • Clean Architecture • Performance Optimizatio
 
 ## 📊 GitHub
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sangidduha&theme=github-dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sangidduha&theme=github-dark&hide_border=true)
