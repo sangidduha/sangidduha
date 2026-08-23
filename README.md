@@ -22,6 +22,5 @@ AI Agents • LLM Integration • Clean Architecture • Performance Optimizatio
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sangidduha&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=sangidduha&theme=github-dark&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=sangidduha&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
